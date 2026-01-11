@@ -1,127 +1,111 @@
-# Hi, I’m HARI 👋  
-**Cybersecurity Engineer in the Making • Full-Stack Developer • WebRTC & Cryptography Nerd**
+<p align="center">
+  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00c6ff">
+          <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#0072ff">
+          <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
 
-> I build security-first systems that don’t fall apart in the real world.  
-> No fluff. No hype. Just disciplined engineering.
+    <rect width="1200" height="180" fill="#0d1117" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=srihari-codes&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/srihari-codes?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/srihari-codes?label=Stars&style=social" />
+    <text x="50%" y="45%" text-anchor="middle"
+          font-size="46"
+          fill="url(#grad)"
+          font-family="Segoe UI, Roboto, Ubuntu, sans-serif"
+          font-weight="600">
+      HARI
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="50%" y="68%" text-anchor="middle"
+          font-size="20"
+          fill="#8b949e"
+          font-family="Segoe UI, Roboto, Ubuntu, sans-serif">
+      Cybersecurity • Full-Stack • WebRTC
+    </text>
+  </svg>
 </p>
 
 ---
 
-## 🧠 About Me
-I’m a **B.E. Cybersecurity student** and an **autodidact** *(self-directed learner)* with a forensic mindset *(evidence-driven analysis)*.  
-I focus on **how systems break**, not just how they’re supposed to work.
+# 💫 About Me
+Hi, I’m **HARI** 👋  
+A **Cybersecurity engineering student** and **full-stack developer in the making**, focused on building **security-first, real-world systems**.
 
-Primary dev OS: **Windows 11**  
-Security & analysis: **Kali Linux (VMware)**
+I obsess over **how systems fail**, not how they’re marketed.  
+Build → break → analyze → rebuild.
 
-> *No cap* (no exaggeration): insecure design always reveals itself.
-
----
-
-## 🧰 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bash" />
-  <img src="https://img.shields.io/badge/SQL-1f1f1f?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+> *Hard truth:* security is boring plumbing. Skip fundamentals and it leaks.
 
 ---
 
-## 🧱 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://img.shields.io/badge/Capacitor-1f1f1f?style=for-the-badge&logo=capacitor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PeerJS-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SimpleWebRTC-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PeerServer-1f1f1f?style=for-the-badge"/>
-</p>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hariific)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsrihari)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srihari221122)
 
 ---
 
-## 🗄️ Databases & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgresql" />
-  <img src="https://img.shields.io/badge/Supabase-1f1f1f?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IndexedDB-1f1f1f?style=for-the-badge"/>
-</p>
+## 💻 Tech Stack
+
+### 🧠 Programming Languages & Scripting
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash/Shell-%234D4D4D.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
 
 ---
 
-## 🌐 Web, Backend & App Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/WebRTC-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgREST-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OAuth%202.0-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google%20Sign--In-1f1f1f?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/P2P%20Networking-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web--to--App-1f1f1f?style=for-the-badge"/>
-</p>
+### 🧱 Frameworks, Libraries & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=plastic&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 
 ---
 
-## 🔐 Security & Cryptography
-<p align="left">
-  <img src="https://img.shields.io/badge/AES--256--GCM-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hybrid%20Encryption-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hashing-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital%20Signatures-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STUN/TURN-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zero--Trust-1f1f1f?style=for-the-badge"/>
-</p>
+### 🗄️ Databases & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
 
 ---
 
-## 🛠️ Cybersecurity Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hydra-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hashcat-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLmap-1f1f1f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-1f1f1f?style=for-the-badge"/>
-</p>
-
----
-
-## ⚙️ DevOps, Platforms & OS
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,docker" />
-  <img src="https://img.shields.io/badge/VMware-1f1f1f?style=for-the-badge&logo=vmware"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-1f1f1f?style=for-the-badge&logo=kalilinux"/>
-  <img src="https://img.shields.io/badge/Windows%2011-1f1f1f?style=for-the-badge&logo=windows"/>
-</p>
-
----
-
-## 📱 Mobile & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-1f1f1f?style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/badge/Telegram%20API-1f1f1f?style=for-the-badge&logo=telegram"/>
-  <img src="https://img.shields.io/badge/PDF%20Tools-1f1f1f?style=for-the-badge"/>
-</p>
+### 🛠️ DevOps, Tools & Platforms
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srihari-codes&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihari-codes&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=srihari-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=srihari-codes&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srihari-codes&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🧠 Philosophy
-Security isn’t magic.  
-It’s **boring, meticulous plumbing** — and boring done right beats clever done wrong.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=srihari-codes&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-**Motto:** Learn deeply. Build fiercely. Verify everything.
+---
+
+[![](https://visitcount.itsvg.in/api?id=srihari-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Cyber-style animated SVG header integrated | Clean, modern, no template noise -->
