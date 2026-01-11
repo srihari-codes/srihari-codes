@@ -7,7 +7,14 @@ Build → break → analyze → rebuild.
 > *Hard truth:* security is boring plumbing. Skip fundamentals and it leaks.
 
 ---
-
+<p align="center">
+  <img 
+    src="https://krikey-ai.ghost.io/content/images/2025/06/GIF-Maker-Dancing-Skeleton-GIF-Transparent.GIF"
+    alt="Life Code GIF"
+    width="100%"
+  />
+</p>
+---
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hariific)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsrihari)
