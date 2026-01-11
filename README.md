@@ -1,12 +1,11 @@
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/502d6e71-3314-4055-bd20-3367d3d6f18b"
+    src="https://25.media.tumblr.com/3121f994e1e28da404a1c953bad557e8/tumblr_mfzyw50YKd1rq9asdo1_500.gif"
     alt="Life Code GIF"
     width="100%"
   />
 </p>
-
 
 # 💫 About Me
 Hi, I’m **HARI** 👋  
@@ -75,12 +74,3 @@ Build → break → analyze → rebuild.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srihari-codes&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=srihari-codes&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=srihari-codes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Cyber-style animated SVG header integrated | Clean, modern, no template noise -->
