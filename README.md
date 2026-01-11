@@ -1,4 +1,5 @@
-[coding-nonstop](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNkNnJrZmQwcGQ1ZDkzMTh5NzE0bnIxNTN4M3p5ZTNlN2ZxYXVkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
+
+![Life Code GIF](https://github.com/user-attachments/assets/7c432aba-c4d6-4033-87be-1672a2cd6258)
 
 # 💫 About Me
 Hi, I’m **HARI** 👋  
