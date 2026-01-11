@@ -1,5 +1,12 @@
 
-![Life Code GIF](https://github.com/user-attachments/assets/7c432aba-c4d6-4033-87be-1672a2cd6258)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/502d6e71-3314-4055-bd20-3367d3d6f18b"
+    alt="Life Code GIF"
+    width="100%"
+  />
+</p>
+
 
 # 💫 About Me
 Hi, I’m **HARI** 👋  
