@@ -1,37 +1,4 @@
-<p align="center">
-  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00c6ff">
-          <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#0072ff">
-          <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-
-    <rect width="1200" height="180" fill="#0d1117" />
-
-    <text x="50%" y="45%" text-anchor="middle"
-          font-size="46"
-          fill="url(#grad)"
-          font-family="Segoe UI, Roboto, Ubuntu, sans-serif"
-          font-weight="600">
-      HARI
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
-    </text>
-
-    <text x="50%" y="68%" text-anchor="middle"
-          font-size="20"
-          fill="#8b949e"
-          font-family="Segoe UI, Roboto, Ubuntu, sans-serif">
-      Cybersecurity • Full-Stack • WebRTC
-    </text>
-  </svg>
-</p>
-
----
+[coding-nonstop](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNkNnJrZmQwcGQ1ZDkzMTh5NzE0bnIxNTN4M3p5ZTNlN2ZxYXVkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
 
 # 💫 About Me
 Hi, I’m **HARI** 👋  
