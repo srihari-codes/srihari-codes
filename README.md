@@ -9,7 +9,7 @@ Build → break → analyze → rebuild.
 ---
 <p align="center">
   <img 
-    src="https://krikey-ai.ghost.io/content/images/2025/06/GIF-Maker-Dancing-Skeleton-GIF-Transparent.GIF"
+    src="https://cdn.pixabay.com/animation/2025/08/11/15/15/15-15-45-552_512.gif"
     alt="Life Code GIF"
     width="100%"
   />
